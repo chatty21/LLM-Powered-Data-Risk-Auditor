@@ -1,6 +1,6 @@
 streamlit
 pandas
-scikit-learn
-openai
-shap
-great_expectations
+numpy
+matplotlib
+seaborn
+python-dotenv
