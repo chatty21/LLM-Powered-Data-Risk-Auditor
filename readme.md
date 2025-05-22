@@ -2,6 +2,9 @@
 
 > “Risk is what you don’t see — until your data tells you.”
 
+## Project link
+https://llm-powered-data-risk-auditor.streamlit.app/
+
 ## 📌 Project Overview
 The **LLaMA 2-Powered Data Risk Auditor** is an advanced data analysis tool that allows users to upload structured datasets (CSV or JSON) and instantly gain insights about data quality, potential risks, and summary statistics. It uses both traditional data profiling techniques and large language model (LLM) reasoning to assess data biases, missing values, imbalances, and sensitive fields.
 
